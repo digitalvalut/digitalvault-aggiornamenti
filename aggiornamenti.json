@@ -1,7 +1,7 @@
 {
-  "versione": "3.0.0",
-  "note": "Versione iniziale - test del canale aggiornamenti",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.0.0.zip",
-  "firma": "xG8vmBgeoS+eJkr5REoO141fIK/3BTBSSMRelolcT2lTGtn0rv3sYLSU4Ejb8xlL895a/wduM3PP1Hn0+XiuAg==",
-  "sha256": "04f811b64c0ffd55c1168f37496f9aa863661627806ef2ae13bab8b04d3a6260"
+  "versione": "3.0.1",
+  "note": "Affidabilita': dipendenze complete (defusedxml), launcher auto-riparanti, sistema aggiornamenti",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.0.1.zip",
+  "firma": "rSHBSZnxElABYi+eMdOZFXn+pBQUYLmU0qetjYI/+DCR78+AxMHg1+1CFzbrlZGbU65FqRAI2+flhJTwou1EBw==",
+  "sha256": "fb01e937ff5da148cdcd16fc5e7d2ddab98810b2b6a72d8ad268306eb4746ce0"
 }
