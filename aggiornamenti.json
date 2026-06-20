@@ -1,7 +1,7 @@
 {
-  "versione": "3.0.1",
-  "note": "Affidabilita': dipendenze complete (defusedxml), launcher auto-riparanti, sistema aggiornamenti",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.0.1.zip",
-  "firma": "rSHBSZnxElABYi+eMdOZFXn+pBQUYLmU0qetjYI/+DCR78+AxMHg1+1CFzbrlZGbU65FqRAI2+flhJTwou1EBw==",
-  "sha256": "fb01e937ff5da148cdcd16fc5e7d2ddab98810b2b6a72d8ad268306eb4746ce0"
+  "versione": "3.0.6",
+  "note": "FiscoSicuro 3.0.6: affidabilita' completa + copilota a sciame (forfettario, IVA, IRPEF, 730) con revisore e stima detrazioni",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.0.6.zip",
+  "firma": "Izrxpp9oivj9ZS/A8zyAkGtUYowOhxok9e4sfNgwDx7WU4JohRa5D2Wt785lV2beZ/4EhqkoVOTux3kF9jKuDw==",
+  "sha256": "49b7f641a496368f42885cdff290d474e128d7483ea8bcdac360872b66fb157d"
 }
