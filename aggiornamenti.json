@@ -1,7 +1,7 @@
 {
-  "versione": "3.0.6",
-  "note": "FiscoSicuro 3.0.6: affidabilita' completa + copilota a sciame (forfettario, IVA, IRPEF, 730) con revisore e stima detrazioni",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.0.6.zip",
-  "firma": "Izrxpp9oivj9ZS/A8zyAkGtUYowOhxok9e4sfNgwDx7WU4JohRa5D2Wt785lV2beZ/4EhqkoVOTux3kF9jKuDw==",
-  "sha256": "49b7f641a496368f42885cdff290d474e128d7483ea8bcdac360872b66fb157d"
+  "versione": "3.1.3",
+  "note": "FiscoSicuro 3.1.3: +cedolare/ravvedimento, RAG con citazioni, sicurezza (PIN rete + password cifrate), onboarding guidato, stress test e SOP aggiornamenti",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.1.3.zip",
+  "firma": "k1ZhhpmQSyfglBLdlMqvUJIddf6PKQqHdJn9x01yVl3ugYurcgr6Ga1nEzR2Oqmq5KLmQZj3ZPtoLJy4VUWUAA==",
+  "sha256": "8f0b9af396ae6a689998d2a579a66ece542f103c5e1f5eab4319d2cd297e7ad7"
 }
