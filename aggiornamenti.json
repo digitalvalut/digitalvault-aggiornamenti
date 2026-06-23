@@ -1,7 +1,7 @@
 {
-  "versione": "3.2.0",
-  "note": "FiscoSicuro 3.2.0: revisione codice approfondita + repo git. Fix critico (chiave privata non piu copiabile ai clienti), hardening ripristino backup, robustezza coda classificazione.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.2.0.zip",
-  "firma": "kfHqPlcWjiJVPrQHAdaWutADwOmIz5yqNX6bPlyzlQz71mAxrMEcQWL2IkpRWX4/qe/oqMM4tcmfhJdwkzC/Dg==",
-  "sha256": "32f5ff1a29c40951820220fa638d9a3310a3beef6efa248341489ec1a365314f"
+  "versione": "3.2.1",
+  "note": "FiscoSicuro 3.2.1: pacchetto ripulito (escluso .git)",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.2.1.zip",
+  "firma": "u9LIMTzg6kct0Cm+H2Sagq27WjJlCpn2AMzwEhuxlKfW8n4IBwJjN+KxDssn4YNvpMmKWNPZzSeFhTCSTz+VAw==",
+  "sha256": "32baf5cfda0cca4ae7adefc531186defc2bcb5e5466750c29fb9a06a4a81254b"
 }
