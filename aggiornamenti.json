@@ -1,7 +1,7 @@
 {
-  "versione": "3.1.8",
-  "note": "FiscoSicuro 3.1.8: export Excel, prepara nuovo SSD, migliorie ai_client/app/database e UI; dipendenza openpyxl allineata nei controlli launcher",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.1.8.zip",
-  "firma": "gR+tTfrm6/CD4TOp+0T9I4RyBI8JSeO62auuNGdXVzep8jUf9fVCIm0V1Y+KfMDLK4XhM6Wr05w9SGgujA7JBg==",
-  "sha256": "51a6fa0d881d10a66582a337830bb877281a59c8ff4e6b98fa9e81b6c84512be"
+  "versione": "3.2.0",
+  "note": "FiscoSicuro 3.2.0: revisione codice approfondita + repo git. Fix critico (chiave privata non piu copiabile ai clienti), hardening ripristino backup, robustezza coda classificazione.",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.2.0.zip",
+  "firma": "kfHqPlcWjiJVPrQHAdaWutADwOmIz5yqNX6bPlyzlQz71mAxrMEcQWL2IkpRWX4/qe/oqMM4tcmfhJdwkzC/Dg==",
+  "sha256": "32f5ff1a29c40951820220fa638d9a3310a3beef6efa248341489ec1a365314f"
 }
