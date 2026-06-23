@@ -1,7 +1,7 @@
 {
-  "versione": "3.2.1",
-  "note": "FiscoSicuro 3.2.1: pacchetto ripulito (escluso .git)",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.2.1.zip",
-  "firma": "u9LIMTzg6kct0Cm+H2Sagq27WjJlCpn2AMzwEhuxlKfW8n4IBwJjN+KxDssn4YNvpMmKWNPZzSeFhTCSTz+VAw==",
-  "sha256": "32baf5cfda0cca4ae7adefc531186defc2bcb5e5466750c29fb9a06a4a81254b"
+  "versione": "3.3.0",
+  "note": "FiscoSicuro 3.3.0: avviso SSD quasi pieno + archiviazione sicura documenti vecchi sul PC (libera spazio senza perdere dati)",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.3.0.zip",
+  "firma": "TF+NY7rMpY5hpIegZK0Sbupk42DnPf7Zz7gz/C1mYvqlihCz8y02W8UFJEVVBzKcf2nqkmR96sDS+SGqk/FdCw==",
+  "sha256": "d4450adf470c4929db19e93a168b4e16750d3f43fd1b8c1b7088247bad9ca2fe"
 }
