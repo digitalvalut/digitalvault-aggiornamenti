@@ -1,7 +1,7 @@
 {
-  "versione": "3.6.2",
-  "note": "FiscoSicuro 3.6.2 - Atti & Statuti: 15 documenti completi. Aggiunti contratto di lavoro, cessione quote, verbale assemblea, riconoscimento di debito, accordo di riservatezza (NDA)",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.2.zip",
-  "firma": "S4BRr1ESzEIS/NhfiROex8iuO7whi8gHIfyKoSUQTvlmnf4sWIi0MwdHJfWk3g8f3dhvMvUooMJmuGeJt4ptDw==",
-  "sha256": "546be74477a737ace22c55331c20616fa195a7a33fc8deb304b58dd249db9dc1"
+  "versione": "3.6.3",
+  "note": "FiscoSicuro 3.6.3 - Guida aggiornata ai nuovi moduli + precompilazione automatica degli atti/contratti coi dati del cliente gia in archivio (scegli il cliente e i campi si riempiono)",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.3.zip",
+  "firma": "MERoz56ueHOUClsMyvtuuKzSQPhSBjUmS3XK3ng7g9kplz/7F10P8BjIOnVCTC1n7VQqgcd/GriuhAK86cemDQ==",
+  "sha256": "627063fa585e407411cd6c92bb5dd21b85c072711c0df73a93fdeb0a957c08f9"
 }
