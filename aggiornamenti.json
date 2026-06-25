@@ -1,7 +1,7 @@
 {
-  "versione": "3.6.6",
-  "note": "FiscoSicuro 3.6.6 - OCR automatico piu leggero: legge le prime pagine per riconoscere il documento (meno token, piu veloce). Per leggere tutte le pagine usa Leggi le scansioni.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.6.zip",
-  "firma": "5/+5e6t8vsB8MhDZIbCHYfC5ektVAqLxEKWgCr6ODF7HE2LPOQtR3Aq4sBC60ahMWz1EhZ4YfxCDn4dCRtqBBQ==",
-  "sha256": "b01e8d1d157b70e15d26cc5a4794f39cddd06aa78c9076fb2889504812986ccd"
+  "versione": "3.6.7",
+  "note": "FiscoSicuro 3.6.7 - Sicurezza OCR: un documento non resta mai bloccato in lettura e l app non spreca token. Se l OCR si interrompe, il documento torna a stato normale da solo.",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.7.zip",
+  "firma": "YGtrjJkf3uHJyOcI/+BeoHTh6IvBcpPoyoiPFTxKd0efpi/7z7E4pLU5411fRZ0Hvox6Wj04C14eN//X1KlmAQ==",
+  "sha256": "aefba63c81cebd8fcfe90d736a186c6bfbf6ccfebe1340a1f06fd5a34d006b31"
 }
