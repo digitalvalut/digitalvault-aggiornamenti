@@ -1,7 +1,7 @@
 {
-  "versione": "3.6.0",
-  "note": "FiscoSicuro 3.6.0 - 3 nuovi moduli: Controllo Rischi (compliance proattiva), Adeguati Assetti (proiezioni + DSCR + stress test), Atti & Statuti (bozze statuti APS/ETS, atti Srl/SNC, risposte; con PDF e rifinitura AI)",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.0.zip",
-  "firma": "TUB5admMiscnCy8Ry5cUv8QjCUr2w+5bPCE0PnqcRU7GDFmINyXR0/1/I7kr/xdyKPFSryQGmJdu8gdSi3/eDg==",
-  "sha256": "06172c692848f6d27daa5e6be8590ce8f2ec3daff155301ef5a66476d2f3d741"
+  "versione": "3.6.1",
+  "note": "FiscoSicuro 3.6.1 - Atti & Statuti potenziato: documenti COMPLETI (atti SNC/Srl, statuti APS/ETS) + 5 contratti (locazione abitativa e commerciale, comodato, affitto azienda, prestazione servizi)",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.1.zip",
+  "firma": "7p6KdK7DU+npK9FS/ZVmEpxdf4L+1qARUJJFZ0LzDLt88BickFry3HjfoG04yr6YC5iC8vwrqzdjMo7OwQoVDg==",
+  "sha256": "143f5b9b7cdb530406917a6dc8fa5f0efa75e193b46cd10a5c6b6b800e3325ff"
 }
