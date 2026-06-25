@@ -1,7 +1,7 @@
 {
   "versione": "3.6.4",
-  "note": "FiscoSicuro 3.6.4 - Aggiornamenti automatici: basta premere Scarica e riaprire il programma, l'aggiornamento si installa da solo (niente piu passo manuale)",
+  "note": "Aggiornamento 3.6.4",
   "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.4.zip",
-  "firma": "vY3M+ujjUVGbSTpi1tQbdOTmGbH20lzY567FVIat2MCere+zCMaSv0k4bbFlFMneHwm5oZXjhPq4WcQYo/B2Bw==",
-  "sha256": "c79a03f5f28e9ab2f31e5e89f5dde6ad8762c12ffa4933308bc7ede0a68b24d8"
+  "firma": "AXG4ch+hY7nqFKwUFnboFkIzcnetLrci/SZMy91I8SHK4rpRulGGz/UtyhRiNJqP0pX9uSQtlJzkd++xc4qKBw==",
+  "sha256": "200959661799fef2af737cf007e36815de2fb6fd2a0753bb8ea5816c0768a12c"
 }
