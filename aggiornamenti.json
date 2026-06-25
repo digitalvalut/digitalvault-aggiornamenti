@@ -1,7 +1,7 @@
 {
-  "versione": "3.6.1",
-  "note": "FiscoSicuro 3.6.1 - Atti & Statuti potenziato: documenti COMPLETI (atti SNC/Srl, statuti APS/ETS) + 5 contratti (locazione abitativa e commerciale, comodato, affitto azienda, prestazione servizi)",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.1.zip",
-  "firma": "7p6KdK7DU+npK9FS/ZVmEpxdf4L+1qARUJJFZ0LzDLt88BickFry3HjfoG04yr6YC5iC8vwrqzdjMo7OwQoVDg==",
-  "sha256": "143f5b9b7cdb530406917a6dc8fa5f0efa75e193b46cd10a5c6b6b800e3325ff"
+  "versione": "3.6.2",
+  "note": "FiscoSicuro 3.6.2 - Atti & Statuti: 15 documenti completi. Aggiunti contratto di lavoro, cessione quote, verbale assemblea, riconoscimento di debito, accordo di riservatezza (NDA)",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.2.zip",
+  "firma": "S4BRr1ESzEIS/NhfiROex8iuO7whi8gHIfyKoSUQTvlmnf4sWIi0MwdHJfWk3g8f3dhvMvUooMJmuGeJt4ptDw==",
+  "sha256": "546be74477a737ace22c55331c20616fa195a7a33fc8deb304b58dd249db9dc1"
 }
