@@ -1,7 +1,7 @@
 {
-  "versione": "3.6.3",
-  "note": "FiscoSicuro 3.6.3 - Guida aggiornata ai nuovi moduli + precompilazione automatica degli atti/contratti coi dati del cliente gia in archivio (scegli il cliente e i campi si riempiono)",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.3.zip",
-  "firma": "MERoz56ueHOUClsMyvtuuKzSQPhSBjUmS3XK3ng7g9kplz/7F10P8BjIOnVCTC1n7VQqgcd/GriuhAK86cemDQ==",
-  "sha256": "627063fa585e407411cd6c92bb5dd21b85c072711c0df73a93fdeb0a957c08f9"
+  "versione": "3.6.4",
+  "note": "FiscoSicuro 3.6.4 - Aggiornamenti automatici: basta premere Scarica e riaprire il programma, l'aggiornamento si installa da solo (niente piu passo manuale)",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.4.zip",
+  "firma": "vY3M+ujjUVGbSTpi1tQbdOTmGbH20lzY567FVIat2MCere+zCMaSv0k4bbFlFMneHwm5oZXjhPq4WcQYo/B2Bw==",
+  "sha256": "c79a03f5f28e9ab2f31e5e89f5dde6ad8762c12ffa4933308bc7ede0a68b24d8"
 }
