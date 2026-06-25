@@ -1,7 +1,7 @@
 {
-  "versione": "3.3.0",
-  "note": "FiscoSicuro 3.3.0: avviso SSD quasi pieno + archiviazione sicura documenti vecchi sul PC (libera spazio senza perdere dati)",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.3.0.zip",
-  "firma": "TF+NY7rMpY5hpIegZK0Sbupk42DnPf7Zz7gz/C1mYvqlihCz8y02W8UFJEVVBzKcf2nqkmR96sDS+SGqk/FdCw==",
-  "sha256": "d4450adf470c4929db19e93a168b4e16750d3f43fd1b8c1b7088247bad9ca2fe"
+  "versione": "3.6.0",
+  "note": "FiscoSicuro 3.6.0 - 3 nuovi moduli: Controllo Rischi (compliance proattiva), Adeguati Assetti (proiezioni + DSCR + stress test), Atti & Statuti (bozze statuti APS/ETS, atti Srl/SNC, risposte; con PDF e rifinitura AI)",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.0.zip",
+  "firma": "TUB5admMiscnCy8Ry5cUv8QjCUr2w+5bPCE0PnqcRU7GDFmINyXR0/1/I7kr/xdyKPFSryQGmJdu8gdSi3/eDg==",
+  "sha256": "06172c692848f6d27daa5e6be8590ce8f2ec3daff155301ef5a66476d2f3d741"
 }
