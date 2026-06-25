@@ -1,7 +1,7 @@
 {
-  "versione": "3.6.7",
-  "note": "FiscoSicuro 3.6.7 - Sicurezza OCR: un documento non resta mai bloccato in lettura e l app non spreca token. Se l OCR si interrompe, il documento torna a stato normale da solo.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.7.zip",
-  "firma": "YGtrjJkf3uHJyOcI/+BeoHTh6IvBcpPoyoiPFTxKd0efpi/7z7E4pLU5411fRZ0Hvox6Wj04C14eN//X1KlmAQ==",
-  "sha256": "aefba63c81cebd8fcfe90d736a186c6bfbf6ccfebe1340a1f06fd5a34d006b31"
+  "versione": "3.6.8",
+  "note": "FiscoSicuro 3.6.8 - Sicurezza: le copie su nuovo SSD ora sono garantite PULITE (nessun dato vecchio, nessuna chiave AI del master)",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.8.zip",
+  "firma": "QKxAeTFP0yfkfMocoe/NYkNFzaZDKBmvyz0Xt54hVkkYj3EkTnI+LWnYyQWq9cqdsXIAtcFhHRs4AuvzqZPpCA==",
+  "sha256": "79de54e69a30b514967ab96c4bf5c4eb2a17eede95c6cb89a6c5f8732d1f50e8"
 }
