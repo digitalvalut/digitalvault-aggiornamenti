@@ -1,7 +1,7 @@
 {
-  "versione": "3.6.5",
-  "note": "FiscoSicuro 3.6.5 - I documenti FOTOGRAFATI/scansionati (CamScanner) ora vengono letti in automatico con l OCR AI al caricamento. Corretto un bug per cui veniva letto solo il watermark.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.5.zip",
-  "firma": "n2xw3Le1Bu7iN4y7ePHVQhYlwMTq3325XPZtrdgB/riTeYo51xZKkN8K3J8C5316NzVw5LB0C8nhhshjZuCBBA==",
-  "sha256": "f9990e26811bc8b90c3ecf35d3b0d3b4a01dfd8a62a6a36a6da6101781048fc9"
+  "versione": "3.6.6",
+  "note": "FiscoSicuro 3.6.6 - OCR automatico piu leggero: legge le prime pagine per riconoscere il documento (meno token, piu veloce). Per leggere tutte le pagine usa Leggi le scansioni.",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.6.zip",
+  "firma": "5/+5e6t8vsB8MhDZIbCHYfC5ektVAqLxEKWgCr6ODF7HE2LPOQtR3Aq4sBC60ahMWz1EhZ4YfxCDn4dCRtqBBQ==",
+  "sha256": "b01e8d1d157b70e15d26cc5a4794f39cddd06aa78c9076fb2889504812986ccd"
 }
