@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.1",
-  "note": "FiscoSicuro 3.7.1 - Corretto il nome del marchio in DigitalValut (digitalvalut.it) in tutta l applicazione",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.1.zip",
-  "firma": "l5WLrHhbdgqJrWL/bduQe0ZSx7fIVUPclZdY9dreCmY1g2yDsR5mKefepEC9xUMhzMF2RPIIUQw6OS3EOtGlAg==",
-  "sha256": "49b289cdc18d18c9cf1ed28d372401b163f3a89f061a18d0bb23e63c953ce01d"
+  "versione": "3.7.2",
+  "note": "FiscoSicuro 3.7.2 - Fix finale UI: corretto marchio DigitalValut nella dashboard (logo name e brand lockup)",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.2.zip",
+  "firma": "JMCiES8ajn7c+RcsumG6xpqurjfNQ6SUS4BGVlmp3Jx7749bHNrBMzxsFFs5ua3Cu1zPYiSX1mmBT+WIWkHeDA==",
+  "sha256": "e364a1b765c1834e38ecffae13f70c69d5a32bf7005d5fcca496e873dd2773fd"
 }
