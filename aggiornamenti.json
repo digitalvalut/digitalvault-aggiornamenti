@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.0",
-  "note": "FiscoSicuro 3.7.0 - Consulente AI piu professionale: risposte tecniche strutturate come un parere, con riferimenti normativi e passo operativo finale; piu memoria nella chat",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.0.zip",
-  "firma": "Pjna9226dJLtzBBD2YIoWIuKt2iLb4xqU7AiOAqKb/w+bsBaKsJSTE0Zq99yZcvbeM9wUc7r+pmsj/Odkt8sDQ==",
-  "sha256": "1a59a8f23e16dc0275360e333f5fc3a4a2202486680cab8ba2f2a62835696e0a"
+  "versione": "3.7.1",
+  "note": "FiscoSicuro 3.7.1 - Corretto il nome del marchio in DigitalValut (digitalvalut.it) in tutta l applicazione",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.1.zip",
+  "firma": "l5WLrHhbdgqJrWL/bduQe0ZSx7fIVUPclZdY9dreCmY1g2yDsR5mKefepEC9xUMhzMF2RPIIUQw6OS3EOtGlAg==",
+  "sha256": "49b289cdc18d18c9cf1ed28d372401b163f3a89f061a18d0bb23e63c953ce01d"
 }
