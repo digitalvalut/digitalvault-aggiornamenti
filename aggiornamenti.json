@@ -1,7 +1,7 @@
 {
-  "versione": "3.6.9",
-  "note": "FiscoSicuro 3.6.9 - Risparmio: l AI usa modelli forti ed economici (GLM 5.2, DeepSeek) come primari e Gemini Flash per l OCR; Claude resta come riserva di qualita. Stessa qualita, costi molto piu bassi.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.6.9.zip",
-  "firma": "2ff3k0R5rVFZ6LEQi2v8Ru3BWGzm4LWMSn3PEIbefcTQA3pywtk+dWkSfXdJrLNArUvSLa6xMLopyqRLy0a9Dw==",
-  "sha256": "2a2bf4898f9b65edac4524f5bb6f7933ea5bacce128d900e717c447125ff24f4"
+  "versione": "3.7.0",
+  "note": "FiscoSicuro 3.7.0 - Consulente AI piu professionale: risposte tecniche strutturate come un parere, con riferimenti normativi e passo operativo finale; piu memoria nella chat",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.0.zip",
+  "firma": "Pjna9226dJLtzBBD2YIoWIuKt2iLb4xqU7AiOAqKb/w+bsBaKsJSTE0Zq99yZcvbeM9wUc7r+pmsj/Odkt8sDQ==",
+  "sha256": "1a59a8f23e16dc0275360e333f5fc3a4a2202486680cab8ba2f2a62835696e0a"
 }
