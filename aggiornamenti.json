@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.3",
-  "note": "Rete studio piu' stabile: le operazioni lunghe (lettura documenti, PDF) non rallentano piu' gli altri collaboratori collegati. Interfaccia che funziona anche senza internet. Vari perfezionamenti e correzioni.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.3.zip",
-  "firma": "uYMB8iugiQ3dK17aL4grdMjLSthZ2MRrjsXN9vXU9GG5ePa0tL2jQ2H3Rq+vDIPrCuPMIE+NslM8RQuG2QrcBA==",
-  "sha256": "247cf4341341f8aaa2028bca864a30fd47289129f6200444618f1b6eaefa8e8b"
+  "versione": "3.7.4",
+  "note": "Generazione atti con AI piu' reattiva (bozza immediata) e microfono migliorato.",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.4.zip",
+  "firma": "yFdPBHEqtikZDF8LHUoqySOZnUuItxEgk42NOW+hcVivT/TofgotZJ0lOceWrWg7IH2F1mZNA8HGj06HnLtzCw==",
+  "sha256": "765e5455db05c7271a8ca2b20da6b52941528b809e6a470e9a0090824ea837e6"
 }
