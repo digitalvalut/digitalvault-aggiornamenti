@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.4",
-  "note": "Generazione atti con AI piu' reattiva (bozza immediata) e microfono migliorato.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.4.zip",
-  "firma": "yFdPBHEqtikZDF8LHUoqySOZnUuItxEgk42NOW+hcVivT/TofgotZJ0lOceWrWg7IH2F1mZNA8HGj06HnLtzCw==",
-  "sha256": "765e5455db05c7271a8ca2b20da6b52941528b809e6a470e9a0090824ea837e6"
+  "versione": "3.7.6",
+  "note": "Nuova sezione Trasparenza AI: informativa cliente pronta (Legge 132/2025) e registro degli usi dell'AI. Microfono piu' affidabile.",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.6.zip",
+  "firma": "IyBkk8pMrJSC6eYNhVW5eRO9AZqjLnFz/3drlVMDgRuDHp0+NZJrKZA5IUbRZvwYGCQLAyGb0Q81kLVVtyc2Bg==",
+  "sha256": "79e08d07e9e351561efc036650d825c79283c19869ee247e3729c1dbc7353431"
 }
