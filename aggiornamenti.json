@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.6",
-  "note": "Nuova sezione Trasparenza AI: informativa cliente pronta (Legge 132/2025) e registro degli usi dell'AI. Microfono piu' affidabile.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.6.zip",
-  "firma": "IyBkk8pMrJSC6eYNhVW5eRO9AZqjLnFz/3drlVMDgRuDHp0+NZJrKZA5IUbRZvwYGCQLAyGb0Q81kLVVtyc2Bg==",
-  "sha256": "79e08d07e9e351561efc036650d825c79283c19869ee247e3729c1dbc7353431"
+  "versione": "3.7.7",
+  "note": "Nuovo modulo Revisione Enti Pubblici: verifica equilibri di bilancio (D.Lgs. 118/2011) e bozza di parere per l'organo di revisione (art. 239 TUEL).",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.7.zip",
+  "firma": "Vt5Xg1+9dcnHlGUvbyOkJe1B3f7FvLK7R64HqwZLHJmK0gXCH/K+xNADNB6TUvF50pLNJDBcEk7s+Y8KB9GNBQ==",
+  "sha256": "566ce391ccdb72866aadd31d56d9472c673ac90c5c27e6702ac78e7c10af4e30"
 }
