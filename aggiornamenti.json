@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.7",
-  "note": "Nuovo modulo Revisione Enti Pubblici: verifica equilibri di bilancio (D.Lgs. 118/2011) e bozza di parere per l'organo di revisione (art. 239 TUEL).",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.7.zip",
-  "firma": "Vt5Xg1+9dcnHlGUvbyOkJe1B3f7FvLK7R64HqwZLHJmK0gXCH/K+xNADNB6TUvF50pLNJDBcEk7s+Y8KB9GNBQ==",
-  "sha256": "566ce391ccdb72866aadd31d56d9472c673ac90c5c27e6702ac78e7c10af4e30"
+  "versione": "3.7.8",
+  "note": "Guida interna aggiornata (tutti i moduli); su Revisione Enti Pubblici ora si possono allegare i file del bilancio, subito consultabili dall'AI.",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.8.zip",
+  "firma": "jtE6fi2/Hewenxla0gvDPQStZrpmkRjOruREBYoH91Ss51cMEA/e8zjmLUKXp46JiAUB955N7W/3CE3COMKQCA==",
+  "sha256": "1fc7b8e701e143135db489e291832fdea063d35ea6ac8f6af82dac9650691814"
 }
