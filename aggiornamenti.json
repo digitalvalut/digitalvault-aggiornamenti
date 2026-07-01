@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.8",
-  "note": "Guida interna aggiornata (tutti i moduli); su Revisione Enti Pubblici ora si possono allegare i file del bilancio, subito consultabili dall'AI.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.8.zip",
-  "firma": "jtE6fi2/Hewenxla0gvDPQStZrpmkRjOruREBYoH91Ss51cMEA/e8zjmLUKXp46JiAUB955N7W/3CE3COMKQCA==",
-  "sha256": "1fc7b8e701e143135db489e291832fdea063d35ea6ac8f6af82dac9650691814"
+  "versione": "3.7.9",
+  "note": "Aggiornata la flotta AI: Claude Sonnet 5 al posto della versione precedente, per risposte di qualita' ancora piu' alta a parita' di costo.",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.9.zip",
+  "firma": "w7epp9BaFJBv7eo9rxSeZwcz0d05f1X4rG7CzUPJECzOBAdRVKWctS5J0ScW5njjFcVJjleG0HdcC55A2N3iBA==",
+  "sha256": "884d7534557cbf7e2780237d2aa710957387dfd4cb9efdcce090234fd97f3ff8"
 }
