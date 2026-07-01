@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.9",
-  "note": "Aggiornata la flotta AI: Claude Sonnet 5 al posto della versione precedente, per risposte di qualita' ancora piu' alta a parita' di costo.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.9.zip",
-  "firma": "w7epp9BaFJBv7eo9rxSeZwcz0d05f1X4rG7CzUPJECzOBAdRVKWctS5J0ScW5njjFcVJjleG0HdcC55A2N3iBA==",
-  "sha256": "884d7534557cbf7e2780237d2aa710957387dfd4cb9efdcce090234fd97f3ff8"
+  "versione": "3.7.10",
+  "note": "Nuovi pulsanti dedicati in Calcolatori Fiscali: IVA (calcolo/scorporo/liquidazione), esito Modello 730, Cedolare Secca, Ravvedimento Operoso.",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.10.zip",
+  "firma": "UmwE2/yEBT7M3zfRxIS5GBU5IK5/uRgm7PXZwO4m5vu8BNveS5087Mpp39lpjhsIHwNkKo5Sle3iGLCEXHL8Dg==",
+  "sha256": "2a6f251591151968f49fb97637a6986cf5153f20073c1826986d24246293a132"
 }
