@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.10",
-  "note": "Nuovi pulsanti dedicati in Calcolatori Fiscali: IVA (calcolo/scorporo/liquidazione), esito Modello 730, Cedolare Secca, Ravvedimento Operoso.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.10.zip",
-  "firma": "UmwE2/yEBT7M3zfRxIS5GBU5IK5/uRgm7PXZwO4m5vu8BNveS5087Mpp39lpjhsIHwNkKo5Sle3iGLCEXHL8Dg==",
-  "sha256": "2a6f251591151968f49fb97637a6986cf5153f20073c1826986d24246293a132"
+  "versione": "3.7.12",
+  "note": "Nuovo calcolatore Contributi INPS (artigiani, commercianti, gestione separata). Interfaccia piu' veloce (cache dei file statici).",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.12.zip",
+  "firma": "WqmQ0pVfA4yqsDsvkC5NjIfAtFewmRyvcFlIE8lrqxfU/krjtjcEQc1pnUwYgHZrxd06yguYBtQjIZVRiGvyAA==",
+  "sha256": "40fe60e5c5e38a164b7e86b344fc7d6a87ba25ac635fa832a9ddca4e5a84138a"
 }
