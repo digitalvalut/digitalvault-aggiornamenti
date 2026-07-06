@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.12",
-  "note": "Nuovo calcolatore Contributi INPS (artigiani, commercianti, gestione separata). Interfaccia piu' veloce (cache dei file statici).",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.12.zip",
-  "firma": "WqmQ0pVfA4yqsDsvkC5NjIfAtFewmRyvcFlIE8lrqxfU/krjtjcEQc1pnUwYgHZrxd06yguYBtQjIZVRiGvyAA==",
-  "sha256": "40fe60e5c5e38a164b7e86b344fc7d6a87ba25ac635fa832a9ddca4e5a84138a"
+  "versione": "3.7.13",
+  "note": "Contributi INPS ora anche in chat (basta scriverlo). Revisione Enti Pubblici: aggiunti gli indicatori di deficitarieta' strutturale (D.M. 28/12/2018).",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.13.zip",
+  "firma": "nIHj4uvfKxkhwsga1e8HR+EnYe/q+DqAAavasTFjfiib0dW+pFB5RBu9BgLbxaY2jXUrjehBX7UYMB9f3ifRBQ==",
+  "sha256": "3583d9b3258a4addd1c32417d3a227253a8ba408bc2b9a0f9341cc5740a1ad7e"
 }
