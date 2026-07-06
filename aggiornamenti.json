@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.13",
-  "note": "Contributi INPS ora anche in chat (basta scriverlo). Revisione Enti Pubblici: aggiunti gli indicatori di deficitarieta' strutturale (D.M. 28/12/2018).",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.13.zip",
-  "firma": "nIHj4uvfKxkhwsga1e8HR+EnYe/q+DqAAavasTFjfiib0dW+pFB5RBu9BgLbxaY2jXUrjehBX7UYMB9f3ifRBQ==",
-  "sha256": "3583d9b3258a4addd1c32417d3a227253a8ba408bc2b9a0f9341cc5740a1ad7e"
+  "versione": "3.7.14",
+  "note": "Ottimizzazione economia token: prompt caching sui modelli Anthropic (dove i token costano di piu'). Nessun impatto sugli altri modelli.",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.14.zip",
+  "firma": "9XQ+9AMop4Ixc25sMC5nxLQZlndv1a59zS90WBevIB2qcLw4Jt5C9ZU49Qx2EU6dtQtoJ1yXBqJkCjawW4pqDQ==",
+  "sha256": "6198d66b0245f56236c39200d38dbe58c172b6f244cd40fc8b051bcb3e15da9f"
 }
