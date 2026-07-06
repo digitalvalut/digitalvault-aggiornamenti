@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.14",
-  "note": "Ottimizzazione economia token: prompt caching sui modelli Anthropic (dove i token costano di piu'). Nessun impatto sugli altri modelli.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.14.zip",
-  "firma": "9XQ+9AMop4Ixc25sMC5nxLQZlndv1a59zS90WBevIB2qcLw4Jt5C9ZU49Qx2EU6dtQtoJ1yXBqJkCjawW4pqDQ==",
-  "sha256": "6198d66b0245f56236c39200d38dbe58c172b6f244cd40fc8b051bcb3e15da9f"
+  "versione": "3.7.15",
+  "note": "Nuovo modulo Revisione Societa': analisi di bilancio per indici (liquidita'/solidita'/redditivita' + quadratura) e calcolatori IRES e IRAP.",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.15.zip",
+  "firma": "LMEk6Acrd9IvvMBpNO1wGcYoi12Txh3FL0DjKD63IVpeafgjoL2scbAl6XYMIs+XaMTwJXK0IenxTBB7JeNfAA==",
+  "sha256": "da20f7a40195a834d8ec4e946a59720868ff65e68da1a37acdaf7e0362505dfe"
 }
