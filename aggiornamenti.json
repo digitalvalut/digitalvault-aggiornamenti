@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.16",
-  "note": "Menu piu' chiaro: voci raggruppate in 6 sezioni logiche e icone piu' riconoscibili (nessun doppione).",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.16.zip",
-  "firma": "lBT+R3Zm7nh6BK5YWAdpvbco1zKk1C22/sergJmNztIcznYx/AU9/tcJx970xkI9X/cT9ktOBocn46GhM54HDA==",
-  "sha256": "e9c0e0510efff51a207e2d92d85c2e66659fac2c97a3f5a0a291290fb937eaa9"
+  "versione": "3.7.17",
+  "note": "Dashboard con cruscotto: i numeri vitali dello studio (clienti, scadenze, documenti) a colpo d'occhio in cima, con conteggio animato.",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.17.zip",
+  "firma": "GATmdxHnlTLiskjOOlPqrOYdL1DC3NNKJRhHMgGi+kMCPE5tVHfpOy9vRYBnoHQg3FruvneAGqV1RypVQubvDA==",
+  "sha256": "66a1400d949eed9c04c7bb0baf7f4b50217f8cd6fbc1dcb9f746f9edb20adfda"
 }
