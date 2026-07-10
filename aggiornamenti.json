@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.15",
-  "note": "Nuovo modulo Revisione Societa': analisi di bilancio per indici (liquidita'/solidita'/redditivita' + quadratura) e calcolatori IRES e IRAP.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.15.zip",
-  "firma": "LMEk6Acrd9IvvMBpNO1wGcYoi12Txh3FL0DjKD63IVpeafgjoL2scbAl6XYMIs+XaMTwJXK0IenxTBB7JeNfAA==",
-  "sha256": "da20f7a40195a834d8ec4e946a59720868ff65e68da1a37acdaf7e0362505dfe"
+  "versione": "3.7.16",
+  "note": "Menu piu' chiaro: voci raggruppate in 6 sezioni logiche e icone piu' riconoscibili (nessun doppione).",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.16.zip",
+  "firma": "lBT+R3Zm7nh6BK5YWAdpvbco1zKk1C22/sergJmNztIcznYx/AU9/tcJx970xkI9X/cT9ktOBocn46GhM54HDA==",
+  "sha256": "e9c0e0510efff51a207e2d92d85c2e66659fac2c97a3f5a0a291290fb937eaa9"
 }
