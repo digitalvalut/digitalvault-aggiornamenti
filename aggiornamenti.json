@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.17",
-  "note": "Dashboard con cruscotto: i numeri vitali dello studio (clienti, scadenze, documenti) a colpo d'occhio in cima, con conteggio animato.",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.17.zip",
-  "firma": "GATmdxHnlTLiskjOOlPqrOYdL1DC3NNKJRhHMgGi+kMCPE5tVHfpOy9vRYBnoHQg3FruvneAGqV1RypVQubvDA==",
-  "sha256": "66a1400d949eed9c04c7bb0baf7f4b50217f8cd6fbc1dcb9f746f9edb20adfda"
+  "versione": "3.7.18",
+  "note": "Aggiornamento 3.7.18",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.18.zip",
+  "firma": "2Zo2opn4232JHTgwvkRUItyOpWzYFx2ceEewalvraUVWNNB7KKNtDw9BdOTNKO9zEiixbvjtGccNA5ZZ4PMyAw==",
+  "sha256": "eaaf4ee71ce768d5e15b7739e6c7ea69f0d252fd27749b6cd2ec5645c3be3bd1"
 }
