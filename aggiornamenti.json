@@ -1,7 +1,7 @@
 {
-  "versione": "3.7.19",
-  "note": "Aggiornamento 3.7.19",
-  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.19.zip",
-  "firma": "ta3nF2Cm0f37pOEWQOyLJ58VsNWM4ssDbUg5wyqrtComPOhplLY84M8uEZz/v7Fe8ZQEq1nVQDdeoSZAI/5KCA==",
-  "sha256": "fe5d25369ff1b6fb8f26fca5ffa67c6aed123b70071af8b8abe212a84fc03c9e"
+  "versione": "3.7.21",
+  "note": "Aggiornamento 3.7.21",
+  "url_zip": "https://raw.githubusercontent.com/digitalvalut/digitalvault-aggiornamenti/main/pacchetti/digitalvault_3.7.21.zip",
+  "firma": "8IT05E4/iG8TOZu/eKiMi5EjSvaRC/3UXfy6xvm+Mzb2KLspFY0spLMq+9tpwLFPaBrYap2Cx1rOV+zNatupAA==",
+  "sha256": "190b88f44ce005e8199aeea807b5eedc1179faa2094dc7cec099f43b19a6bab4"
 }
